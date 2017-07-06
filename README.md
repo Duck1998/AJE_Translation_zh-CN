@@ -1,4 +1,4 @@
-# AJE_Translation_zh-CN
+# AJE_zh-CN
 
 高级喷气引擎MOD中，组件的简体中文翻译  
 Advanced Jet Engine part translation in Chinese(Simplified)
